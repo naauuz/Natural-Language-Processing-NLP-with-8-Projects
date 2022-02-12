@@ -1,7 +1,7 @@
 # Natural-Language-Processing-NLP-with-8-Projects
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/naauuz/Natural-Language-Processing-NLP-with-8-Projects/blob/main/Image/nlp.jpeg)
 
 
 

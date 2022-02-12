@@ -10,6 +10,7 @@
 Work on 8 Projects, Learn Natural Language Processing Python, Machine Learning, Deep Learning, SpaCy, NLTK, Sklearn, CNN
 
 
+
 Course Outline :
 
 
@@ -45,6 +46,15 @@ In the next 3 section we will get dive into a real world data set for text class
 
 
 - Numpy, Pandas, Matplotlib + File Processing In this section, for all of you who want refresh concept related to data analysis with Numpy and Pandas library, Data Visualization with Matplotlib library, and Text File processing and PDF File processing.
+
+
+Created by:
+
+> Ankit Mistry
+
+> Vijay Gadhave 
+
+> Data Science & Machine Learning Academy
 
 
 **Reference:** https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/

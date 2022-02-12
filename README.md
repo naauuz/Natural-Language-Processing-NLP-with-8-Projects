@@ -22,7 +22,7 @@ In the next 3 section we will get dive into a real world data set for text class
 
 
 
-> Deep Learning Basics In This Section we will get a basic idea about Deep learning concept, like artificial neural network activation function and how ANN works.
+- Deep Learning Basics In This Section we will get a basic idea about Deep learning concept, like artificial neural network activation function and how ANN works.
 
 
 

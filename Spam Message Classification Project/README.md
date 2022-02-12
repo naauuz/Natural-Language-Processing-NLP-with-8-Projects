@@ -1,6 +1,6 @@
 # Spam-Message-Classification
 
-![This is an image](https://github.com/naauuz/Natural-Language-Processing-NLP-with-8-Projects/blob/main/Image/SpamMessage.jpeg)
+        ![This is an image](https://github.com/naauuz/Natural-Language-Processing-NLP-with-8-Projects/blob/main/Image/SpamMessage.jpeg)
 
 
 In this project, I've described step-by-step approaches for implementing Email spam detection and categorization using machine learning techniques in Python programming language.

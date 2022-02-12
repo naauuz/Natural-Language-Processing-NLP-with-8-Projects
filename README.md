@@ -17,11 +17,7 @@ In the next 3 section we will get dive into a real world data set for text class
 
 
 
-> Automated Text Summarization,  Twitter sentiment Analysis In this 2 section we will work upon real world application of NLP.
-
-Automatic text summarisation, Which compress your text to find the summary of big articles
-
-Another one we will work is finding the sentiment from the recently posted tweet about some specific keyword with the help of Twitter API - tweepy library
+> Automated Text Summarization,  Twitter sentiment Analysis In this 2 section we will work upon real world application of NLP. Automatic text summarisation, Which compress your text to find the summary of big articles. Another one we will work is finding the sentiment from the recently posted tweet about some specific keyword with the help of Twitter API - tweepy library
 
 
 

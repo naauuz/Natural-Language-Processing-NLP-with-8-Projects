@@ -13,6 +13,7 @@ Course Outline :
 
 > Spam Message Classification,  Restaurant Review Prediction (Good or bad),  IMDB, Amazon and Yelp review Classification
 
+
 In the next 3 section we will get dive into a real world data set for text classification, spam detection, restaurant review classification, Amazon IMDb reviews. We will see how to do Pre-Processing and make your data suitable for machine learning algorithm and apply different Machine Learning estimator (Logistic Regression, SVM, Decision Tree) for classifying text.
 
 

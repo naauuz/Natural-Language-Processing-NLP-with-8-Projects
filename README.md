@@ -1,6 +1,12 @@
 # Natural-Language-Processing-NLP-with-8-Projects
 
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
+
+
 Work on 8 Projects, Learn Natural Language Processing Python, Machine Learning, Deep Learning, SpaCy, NLTK, Sklearn, CNN
 
 

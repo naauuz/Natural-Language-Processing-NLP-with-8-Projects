@@ -1,7 +1,5 @@
 # Spam-Message-Classification
 
-![This is an image](https://github.com/naauuz/Natural-Language-Processing-NLP-with-8-Projects/blob/main/Image/spam.jpeg)
-
 <img src="https://github.com/naauuz/Natural-Language-Processing-NLP-with-8-Projects/blob/main/Image/spam.jpeg" class="centerImage">
 
 
